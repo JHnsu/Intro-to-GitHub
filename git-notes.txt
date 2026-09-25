@@ -1,0 +1,5 @@
+Git is a distributed version control system.
+
+GitHub is an online platform that hosts Git repositories.
+
+Important Git concepts include repositories, commits, branches, pull requests, and merging.
