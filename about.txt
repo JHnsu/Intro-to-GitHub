@@ -1,3 +1,1 @@
-This repository was created for an introductory Git and GitHub assignment.
-
-It demonstrates basic repository management, file creation, commits, and version control.
+I practiced cloning a repository, making local changes, committing changes, and pushing them to GitHub.
